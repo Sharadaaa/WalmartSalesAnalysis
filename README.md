@@ -169,4 +169,3 @@ CREATE TABLE IF NOT EXISTS sales(
     gross_income DECIMAL(12, 4),
     rating FLOAT(2, 1)
 );
-```
